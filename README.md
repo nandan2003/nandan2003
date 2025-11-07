@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Nandan Vallamdasu</h1>
+<h1>Hey 👋, I'm <a href="https://nandanv76.vercel.app/">Nandan Vallamdasu</a></h1>
 <h3 align="center">Building intelligent systems where data, automation, and AI learn to think together.</h3>
+
+<p>
+   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+</p> 
+
+<p>🍌 Don't forget to get some Potassium 🍌</p>
+<h2>⚡️ A Few Quick Facts</h2>
+<img align="right" src="https://tenor.com/bQ6Vi.gif" />
 
 - 🌱 I’m currently learning **RAG Pipelines, AI Agentic Systems, Cognitive Automation**
 
