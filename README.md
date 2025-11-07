@@ -9,7 +9,7 @@
 
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <h2>⚡️ A Few Quick Facts</h2>
-<img align="right" src="https://tenor.com/bQ6Vi.gif" />
+<img align="right" src="panther.gif" width="300">
 
 - 🌱 I’m currently learning **RAG Pipelines, AI Agentic Systems, Cognitive Automation**
 
