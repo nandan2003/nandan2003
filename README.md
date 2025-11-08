@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Azure, Databricks, LangChain, n8n, AI Workflows**
 
-- 📫 How to reach me **nandan.vallamdasu@outlook.com**
+- 📫 How to reach me **nandan.vallamdasu@zohomail.in**
 
 - 📄 Know about my experiences [https://nandanv76.vercel.app/](https://nandanv76.vercel.app/)
 
