@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **nandan.vallamdasu@zohomail.in**
 
-- 📄 Know about my experiences [https://nandanv76.vercel.app/](https://nandanv76.vercel.app/)
+- 📄 My portfolio website [https://nandanv76.vercel.app/](https://nandanv76.vercel.app/)
 
 - ⚡ Fun fact **I debug my thoughts like I debug my code with print statements and caffeine.**
 
