@@ -13,6 +13,8 @@
 
 - 🌱 I’m currently learning **RAG Pipelines, AI Agentic Systems, Cognitive Automation**
 
+ - Open to **AI engineering and automation roles**
+
 - 👯 I’m looking to collaborate on **AI automation systems, data pipelines, and RAG-based research projects**
 
 - 🤝 I’m looking for help with **Cognitive orchestration and scalable AI agent deployment**
