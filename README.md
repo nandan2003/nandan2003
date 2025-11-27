@@ -20,7 +20,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=nandan2003&label=Profile%20Views&color=00AEEF&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/nandan2003?label=Followers&style=for-the-badge&color=00AEEF" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Startups-00AEEF?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%20Engineering-00AEEF?style=for-the-badge" alt="Focus" />
 </p>
 
 </div>
