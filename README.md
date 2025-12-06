@@ -28,13 +28,13 @@
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <h2>⚡️ A Few Quick Facts</h2>
 
-- 🌱 I’m currently learning **RAG Pipelines, AI Agentic Systems, Cognitive Automation**
+- 🚀 Specializing in **High-Performance Inference, RAG, and Agentic Systems**
 
- - Open to **AI engineering and automation roles**
+- ⚙️ Open to **AI engineering and automation roles**
 
-- 👯 I’m looking to collaborate on **AI automation systems, data pipelines, and RAG-based research projects**
+- 🔭 Building scalable AI infrastructure on **Azure & Edge Devices**
 
-- 🤝 I’m looking for help with **Cognitive orchestration and scalable AI agent deployment**
+- 🛠️ **Open Source Contributor:** vLLM, PyTorch, Hugging Face
 
 - 💬 Ask me about **Azure, Databricks, LangChain, n8n, AI Workflows**
 
@@ -71,12 +71,8 @@
      <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
      <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=dark" /></a>
      <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
      <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" /></a>
-     <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=dark" /></a>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
      <a href="https://powershell.org/" target="_blank"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" /></a>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" /</a>
    </p>
    
    ### 🤖 **AI/ML, Data Science & Cloud**
